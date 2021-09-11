@@ -1,0 +1,1 @@
+# NGCC-PARTS.STL
