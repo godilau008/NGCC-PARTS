@@ -9,11 +9,7 @@ These models have not been tested yet as I do not own a 3d printer capable of pr
 ## T3-NGCC-STABS.stl
 ![00cb3811-4cd6-4aef-a2f3-911d2791b6bd](https://user-images.githubusercontent.com/81380488/132972152-c2b7b8ab-9ef4-421a-8ee4-ceb8dbf34dae.PNG)
 
-## T3-NGCC-GUIDE_Y.stl (needs tweaking. will most likely not fit correctly)
-![4aeba5e9-2475-4c5e-b415-4b00dc213145](https://user-images.githubusercontent.com/81380488/133914544-b537f59b-0bd0-467a-b090-2b2728300130.PNG)
-
-## T3-NGCC-TOP_HOUSING.stl
-![T3-NGCC-TOP_HOUSING](https://user-images.githubusercontent.com/81380488/186290577-bb7ebc6d-70bf-4094-90e0-69be6e4f2aba.png)
-
 ## T3-NGCC-STEM.stl
 ![STEM](https://user-images.githubusercontent.com/81380488/186290669-8ba959b6-06d8-49a8-9f03-bd62701183aa.png)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
