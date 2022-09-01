@@ -3,7 +3,7 @@ This is a collection of Nintendo Gamecube Controller parts meant to replicate to
 
 These models have not been tested yet as I do not own a 3d printer capable of printing pieces at such a small scale. If you like the idea and want to help me make these parts better, feel free to print them with something more precise than an FDM 3d printer if you have one on hand and send me feedback at my discord (Kermit#4438).
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 # PICTURES
 
