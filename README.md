@@ -15,8 +15,7 @@ T3-NGCC-GUIDE_X
 
 T3-NGCC-GUIDE_Y
 - Gap for the stem is slightly too big
-- Does not come into contact with the top housing (it should slide on it)
-- Fits terribly overall
+- Causes lots of friction on the Y axis. May either be a bad print or bad tolerances.
 
 T3-NGCC-STAB
 - Fits poorly in the bottom housing (could be caused by plastic flex)
