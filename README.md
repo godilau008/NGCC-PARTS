@@ -21,8 +21,7 @@ T3-NGCC-STAB
 - Fits poorly in the bottom housing (could be caused by plastic flex)
 
 T3-NGCC-STEM
-- Axis ball is too small
-- Height is slightly off (probably because of the first issue)
+- Axis peg is too small. May be caused by the printer. Causes the stick box to be loose.
 
 T3-NGCC-TOP_HOUSING
 - No sample on hand
