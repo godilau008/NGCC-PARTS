@@ -32,11 +32,7 @@ T3-NGCC-TOP_HOUSING
 
 # PICTURES
 
-## T3-NGCC-BOTTOM HOUSING
-![T3_TOP_2021-Sep-11_09-22-01PM-000_CustomizedView40010406631](https://user-images.githubusercontent.com/81380488/132972139-6b0b04f8-c03e-490d-a74c-d716d6058e90.png)
+![307843474_649087126566338_1535519034547415401_n](https://user-images.githubusercontent.com/81380488/192124472-e0dc0796-5be3-4175-8ec9-f58bda03c2dd.jpg)
 
-## T3-NGCC-STAB
-![00cb3811-4cd6-4aef-a2f3-911d2791b6bd](https://user-images.githubusercontent.com/81380488/132972152-c2b7b8ab-9ef4-421a-8ee4-ceb8dbf34dae.PNG)
+![stickbox](https://user-images.githubusercontent.com/81380488/192124635-daa8ff06-1faf-4b03-aba3-9552acf8205b.png)
 
-## T3-NGCC-STEM
-![STEM](https://user-images.githubusercontent.com/81380488/186290669-8ba959b6-06d8-49a8-9f03-bd62701183aa.png)
