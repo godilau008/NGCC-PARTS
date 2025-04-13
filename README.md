@@ -1,30 +1,13 @@
 # NGCC-PARTS
-This is a collection of Nintendo Gamecube Controller parts meant to replicate to the best of my ability the original OEM parts. More will be added in the future with the main objective being a good T3 stick box replacement.
+This is a collection of Nintendo Gamecube Controller parts meant to replicate to the best of my ability the original OEM parts. 
 
-## Known issues
-T3-NGCC-BOTTOM_HOUSING
-- Clips for the top housing are too small
-- Spring groove could be slightly deeper
-- Hole circumference in the middle needs to be bigger
-- Stab does not clip in (could be caused by plastic flex
-- Bottom housing does not clip to the top housing (could be caused by the first issues or plastic flex)
+## Revisions
+T2<br>
+└ v1 : Current (does not include all plastic parts)
 
-T3-NGCC-GUIDE_X
-- Gap for the stem is slightly too big
-- Needs to be slightly higher (circumference might be too small)
-
-T3-NGCC-GUIDE_Y
-- Gap for the stem is slightly too big
-- Causes lots of friction on the Y axis. May either be a bad print or bad tolerances.
-
-T3-NGCC-STAB
-- Fits poorly in the bottom housing (could be caused by plastic flex)
-
-T3-NGCC-STEM
-- Axis peg is too small. May be caused by the printer. Causes the stick box to be loose.
-
-T3-NGCC-TOP_HOUSING
-- No sample on hand
+T3<br>
+├ v1 : Old version made on autocad<br>
+└ v1.5 : Current incomplete revision made in FreeCad
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
