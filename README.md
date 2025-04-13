@@ -2,7 +2,7 @@
 This is a collection of Nintendo Gamecube Controller parts meant to replicate to the best of my ability the original OEM parts. 
 
 ## Revisions
-T2<br>
+T1<br>
 └ v1 : Current (does not include all plastic parts)
 
 T3<br>
